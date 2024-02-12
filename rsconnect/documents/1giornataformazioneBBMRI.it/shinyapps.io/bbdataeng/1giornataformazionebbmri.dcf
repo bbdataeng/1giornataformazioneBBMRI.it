@@ -1,0 +1,10 @@
+name: 1giornataformazionebbmri
+title:
+username: bbdataeng
+account: bbdataeng
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11199432
+bundleId: 8245926
+url: https://bbdataeng.shinyapps.io/1giornataformazionebbmri/
+version: 1
